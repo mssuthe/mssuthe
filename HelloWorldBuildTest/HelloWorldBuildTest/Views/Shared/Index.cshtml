@@ -1,0 +1,14 @@
+﻿@using HelloWorldBuildTest.Models
+@model HelloWorldBuildTest.Models.HomeModel
+
+@{
+    ViewBag.Title = "Index";
+}
+@using (Html.BeginForm(FormMethod.Post))
+{
+    @Html.EditorFor(m => m.name)
+
+    <input type="submit" name="submit"/>
+    
+    @Model.message
+}

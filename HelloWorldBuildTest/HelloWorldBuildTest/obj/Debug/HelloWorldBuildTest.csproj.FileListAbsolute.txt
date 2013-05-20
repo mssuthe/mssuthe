@@ -1,0 +1,7 @@
+C:\Users\mssuthe\git\sandbox\HelloWorldBuildTest\HelloWorldBuildTest\bin\HelloWorldBuildTest.dll
+C:\Users\mssuthe\git\sandbox\HelloWorldBuildTest\HelloWorldBuildTest\bin\HelloWorldBuildTest.pdb
+C:\Users\mssuthe\git\sandbox\HelloWorldBuildTest\HelloWorldBuildTest\bin\EntityFramework.dll
+C:\Users\mssuthe\git\sandbox\HelloWorldBuildTest\HelloWorldBuildTest\bin\EntityFramework.xml
+C:\Users\mssuthe\git\sandbox\HelloWorldBuildTest\HelloWorldBuildTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mssuthe\git\sandbox\HelloWorldBuildTest\HelloWorldBuildTest\obj\Debug\HelloWorldBuildTest.dll
+C:\Users\mssuthe\git\sandbox\HelloWorldBuildTest\HelloWorldBuildTest\obj\Debug\HelloWorldBuildTest.pdb
